@@ -1,0 +1,23 @@
+{
+    "name": "relation",
+    "description" : "Easy to use object-relational mapping on Node.js",
+    "version" : "0.0.1",
+    "keywords": [
+      "orm",
+      "mysql",
+      "sql",
+      "postgresql"
+    ],
+    "author": {
+      "name": "Ricardo Barros",
+      "email": "ricardofbarros@hotmail.com"
+    },
+    "main": "./index.js",
+    "bugs": {
+      "url": "http://github.com/ricardofbarros/relation/issues"
+    },
+    "repository": {
+      "type": "git",
+      "url": "http://github.com/ricardofbarros/relation.git"
+    } 
+}
